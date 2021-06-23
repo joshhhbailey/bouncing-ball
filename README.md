@@ -10,4 +10,4 @@
 ## Overview
 ...
 
-![Video](https://youtu.be/ns50gU4l6vU)
+[![Video](bouncing-ball-screenshot.png)](https://youtu.be/ns50gU4l6vU)
